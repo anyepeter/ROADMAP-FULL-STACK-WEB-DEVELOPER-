@@ -120,4 +120,4 @@ Javascript will be the sole programming language I learn, and I'll utilize it on
 
 For more tags click [here](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-You can check my github to see how I use the tags [here]
+You can check my github to see how I use the tags on the folder DAY TWO
