@@ -121,3 +121,53 @@ Javascript will be the sole programming language I learn, and I'll utilize it on
 For more tags click [here](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 You can check my github to see how I use the tags on the folder [DAY TWO](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/blob/main/DAY%20TWO/index.html)
+
+# DAY 3
+
+## HTML structure 
+  I learned the html structure today that is 
+ 
+ \<!DOCTYPE html>
+ 
+\<html>
+
+  \<head>
+  
+   \<!-- Stuff the browser needs \-->
+   
+  \</head>
+  
+  \<body>
+  
+    \<!-- Everything the user sees \-->
+    
+    \<h1>Hello, Twitch! \</h1>
+    
+  \</body>
+  
+\</html>
+
+ The \<!DOCTPYE html> tell the brower the type of html its dealing with. other DOCTYPE were very long so this means the html5 DOCTYPE is the recent one.
+ The \<html></html> is the root tag that means all what you write in a html document is in the root tag. Any tag inside the html tag is a child e.g head and body.
+ the \<head></head> is everything the brower need to daplay the page.
+ the \<body></body> are the things we can see. 
+ The human being is one such instance. Being a human is similar to using HTML; the body of a person displays what we can see, while the head obscures our ability to understand what the person is thinking.
+ 
+ ## New tags 
+  \<nav></nav>
+  
+  The navigation tag outlines the types of activities that may be done on your website or how a user can move around it.
+  ## Info from users
+  \<form action="confirmation.html" method="post">
+  
+  \<!-- Data collection elements go here -->
+  
+\</form>
+We use the form tag to collect info from user. We use input types like:
+- Text
+- Password
+- Tel
+- Email
+- Button
+
+ You can check the codes here for day three
