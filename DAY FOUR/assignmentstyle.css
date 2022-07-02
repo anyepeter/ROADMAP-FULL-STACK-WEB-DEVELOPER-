@@ -1,0 +1,48 @@
+body{
+    margin:120px 350px 20px 350px;
+    background-color: skyblue;
+    border: 5px solid green;
+    color: white;
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+nav{
+    margin: auto;
+    text-align: center;
+}
+
+ ul{
+    display: flex;
+    margin-left: 250px;
+ }
+ li{
+    list-style-type: none;
+    width: 70px;
+    text-align: center;
+    height: 12px;
+    line-height: 0.7rem;
+ }
+
+ li + li {
+   border-left-style:solid;
+   border-color: green;
+   text-decoration: underline;
+   color: green;
+ }
+ section li{
+    text-decoration: underline;
+    color: green;
+ }
+
+ img {
+    height: 100px;
+    width: 100px;
+    float: right;
+
+ }
+ 
