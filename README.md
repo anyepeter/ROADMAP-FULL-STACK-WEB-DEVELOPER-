@@ -171,3 +171,37 @@ We use the form tag to collect info from user. We use input types like:
 - Button
 
  You can check the codes [here](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/commit/026c2346a185ee36065233d67b70e0b68bf38e7a) for day three
+ 
+ # DAY FOUR
+ ## CSS
+ Today, I began studying CSS, starting with its syntax. The terms CSS means cascading style sheet and cascade signify that the content below can overrule the content above.
+  ## Where does CSS go?
+  css codes can be written in 3 places that is;
+  
+  - inline(the html tag canbe style directlly).
+  
+  - In the head(written using the tag \<style></style>).
+  
+  - Seperate file(create a new file for css codes).
+  
+  ## Seperate file
+  
+  It is best practice to put CSS in it's own file and link to it from the <head> !
+  \<link rel="stylesheet" href="css/style.css">. href="css/style.css" it describe the directory of the css file. 
+  
+  ## CSS rules
+  For instance;
+  
+  P {
+ 
+   color: red;
+   
+   }
+   
+P is referred to as the selector since it specifies which areas of the HTML document the declaration should style.
+
+{ color: red;} is referred to as declaration and it is always inside curly braces.
+
+color is the property and red is the value. 
+
+you can check the code for the DAY FOUR [here](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20FOUR)
