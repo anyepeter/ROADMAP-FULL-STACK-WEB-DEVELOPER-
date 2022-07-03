@@ -44,5 +44,7 @@ nav{
     width: 100px;
     float: right;
 
+ } section nav ul{
+    margin-left: 200px;
  }
  
