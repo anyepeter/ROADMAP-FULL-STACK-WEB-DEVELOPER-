@@ -1,9 +1,12 @@
 body{
-    margin:120px 350px 20px 350px;
+    margin:50px 350px 20px 350px;
     background-color: skyblue;
     border: 5px solid green;
     color: white;
     padding: 30px;
+}
+span{
+    float: left;
 }
 
 h1{
