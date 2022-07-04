@@ -3,7 +3,7 @@ A plan for my journey toward full stack development. So that you can follow alon
 ## DAY one(researching)
 ### full stack web developer:
 It someone who write code for both the frontend that is the client side and the backend that is the server side. Client-side devices, such as a laptop, smartphone, or other device, are used to view websites.
--  These days, full stack developers have some of the highest paying professions, and you can become one without a degree.
+-  These days, full stack development is one of highly pay professions, and you can it without having a degree.
 - Not just coding will help you get a job but networking yourself into it and the way you apply for job.
 ### Why most dont become full stack developer
 "Trough of sorrow" its a curve which show how peoples get frustrated in learning how to code and it also show why people remain in one spot without changing.
@@ -200,8 +200,89 @@ We use the form tag to collect info from user. We use input types like:
    
 P is referred to as the selector since it specifies which areas of the HTML document the declaration should style.
 
-{ color: red;} is referred to as declaration and it is always inside curly braces.
+{ color: red;}  is referred to as declaration and it is always inside curly braces.
 
 color is the property and red is the value. 
 
 you can check the code for the DAY FOUR [here](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20FOUR)
+
+# DAY FIVE 
+## Relationship in css 
+### Parent > child.
+
+To select an element that is the direct descendent of another element use parent > child. For intsance
+\<section> 
+
+\<article>
+
+\<h1>Hello github\<h2>
+
+\</article>
+
+<h1>hello youtube</h1>
+
+\</section>
+
+section > article {
+color: red;
+} 
+
+The color only in the article will be read that h1 will turn red inside the article not the one outside the article.
+
+### parent child.
+To select an element that is inside of another element without being directly descended use parent element 
+parent child. For example:
+
+Use section h1{
+
+color: red;
+
+}
+
+Both the h1 in the article ans outside the article will turn red.
+
+Here are my [code](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20FIVE/relationships) for it
+
+## IDs and CLasses
+IDs are used for selecting distinct elements
+Only one id with the same value per document. Use the syntax 
+#idName. For instances:
+
+\<section>
+
+  \<p>Hello, Twitch!\</p>
+  
+  \<p id="zebra">Hello, Youtube!\</p>
+  
+\</section>
+
+#zebra {
+  color: red;
+}
+
+Classes are for selecting multiple elements
+Multiple with same value allowed per document. It uses the syntax 
+.className. For Instances
+
+\<section>
+
+ \<p class="bob">Hello, Twitch!\</p>
+ 
+  \<p class="bob">Hello, Youtube!\</p>
+  
+  \<p class="bob">Goodbye, Mixer!\</p>
+  
+\</section>
+
+.bob {
+
+  color: red;
+  
+}
+
+All the p tags with class will be read.
+
+Here are my [codes](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20FIVE/ids%25classes) for it
+
+## box layouts
+Here are some [layouts](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20FIVE) I did using float property in css 
