@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box; /* this tell the browser not to consider the width of the borders */
+}
+
+header, footer{
+    height: 100px;
+    border: 1px solid black;
+    clear: both; /* means the footer should not come up after the section have been floated*/
+}
+
+.lap1{
+    height: 200px;
+    width: 100%;
+    
+}
+
+.lap2{
+    height: 300px;
+    width: 20%;
+}
+ section {
+    float: left;
+    border: 1px solid black;
+}
+section.lap3{
+    border: 1px solid black;
+    height: 300px;
+    width: 80%;
+}
