@@ -298,3 +298,7 @@ Here are some [layouts](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVE
  
 [Specificity](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/specificity).
  
+ # DAY SEVEN 
+ 
+## RESPONSIVE DESIGN 
+ 
