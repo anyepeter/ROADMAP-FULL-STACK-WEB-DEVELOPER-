@@ -290,7 +290,11 @@ Here are some [layouts](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVE
 # DAY SIX
 
 ## Review of what I have been doing in HTML and CSS
-[Basic-css](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/basic-css)
-[Relationship](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/relationship)
-[Box-model](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/Box-model)
-[Specificity](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/specificity)
+[Basic-css](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/basic-css).
+ 
+[Relationship](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/relationship).
+ 
+[Box-model](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/Box-model).
+ 
+[Specificity](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVELOPER-/tree/main/DAY%20SIX/specificity).
+ 
