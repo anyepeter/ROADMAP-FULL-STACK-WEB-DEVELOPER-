@@ -300,5 +300,44 @@ Here are some [layouts](https://github.com/anyepeter/ROADMAP-FULL-STACK-WEB-DEVE
  
  # DAY SEVEN 
  
-## RESPONSIVE DESIGN 
+## Networking.
+
+Starting next week, I have to connect with 3 individuals already in tech not only software developers but in engineers of other departments, and at least 2 coffee chats with any of them.
+
+### Goal.
+
+The main goal of networking is to convert Stranger > Acquaintance > Friend > Referral > Coworker.
+The strangers you meet will be the ones to give you a referral to become a coworker in their company.
+Now if you don't know how to make friends, you can read this book  #### "How to win friends and influence people".
+
+### How to meet a stranger
+
+One of the best ways to turn strangers into friends is by attending meetups or events. Now you can start them here:
+- Meetup.com.
+- Interest+conferences.
+- Community Groups around you (local).
+- App such as; lunch club and bumble bizz.
+
+### Normal follow-up.
+
+Meet > Email > Linkendin > Twitter
+After the meeting email, the person the next day and after the 3rd day connect with them on Linkendin and lastly, after the 6th day connect with them on Twitter. The reason for this is to practice spaced repetition.
+End up with a coffee chat.
+
+### Maintain them.
+
+Make a google sheet and in it, keep track of where you meet them e.g 
+- the event you meet them
+- Their Name
+- Where they work 
+- What they do
+- spack(Things you remember about the person)
+- Email
+- LinkedIn
+- Twitter
+
+### Alerts.
+
+Create a google alert against the people you network with them.
+
  
