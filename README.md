@@ -340,5 +340,13 @@ Make a google sheet and in it, keep track of where you meet them e.g
 
 Create a google alert against the people you network with them.
 
+# DAY EIGHT
+
+## Responsive website
+For a website to be responsive, it must be view in a laptop screen, mobile view and other screen resoltions. The website should be view on different sent resolution without content lost. 
+
+## What makes a website responsive 
+there are 3 factors are consider here.
+ 
  
  
