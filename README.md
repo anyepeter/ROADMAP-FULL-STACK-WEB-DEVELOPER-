@@ -345,8 +345,11 @@ Create a google alert against the people you network with them.
 ## Responsive website
 For a website to be responsive, it must be view in a laptop screen, mobile view and other screen resoltions. The website should be view on different sent resolution without content lost. 
 
-## What makes a website responsive 
-there are 3 factors are consider here.
+## What makes a website responsive?
+3 factors are consider here.
+ - Fluid: Here, all the sizes of all the elements or tags are in percentages. This will make the site to be responsive at any screen size.
+ - Elastic: Setting font and text to use a responsive unit of measurement that is em which get font size from the parent element e.g a paragrah inside a section tag and rem which only get font size from the html element.
+ 
  
  
  
