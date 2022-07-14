@@ -30,26 +30,71 @@ body {
 /* LAYOUT
 /*******************************************/
 header nav > *{
-
   float: left;
-  width: 15%;
+  list-style-type: none;
+  margin: 0px;
+}
+header{
+  height: 50px;
+  width: 100%;
+}
+nav ul li {
+  float: left;
   margin: 0 5%;
-  list-style: none;
+ 
+}
+nav > a{
+  padding-left: 5%;
+  width: 10%;
 }
 
-header nav li{
-  float: left;
-  width: 33%;
-
+nav > form{
+ 
+  width: 10%;
+}
+nav form input{
+  width: 100%;
 }
 
-main section{
+nav > h2 {
+  width: 50%;
+  padding-left: 20%;
+}
+
+nav > ul{
+  width: 30%;
+text-align: center;
+}
+
+main {
+  height: 500px;
+  margin-top: 5%;
+}
+
+main section {
   float: left;
   width: 50%;
+  height: 100%;
+   padding-left: 10%;
+
+}
+main section + section {
+  padding-left: 0%;
+  padding-right: 10%;
 }
 
-img{
-  width: 100%;
+section ul{
+  list-style-type: none;
+}
+main section + section  li {
+  float: left;
+  margin: 2%;
+  border: 1px solid red;
+  width: 20%;
+  text-align: center;
+  height: 30px;
+  line-height: 1.5em;
+  
 }
 /******************************************
 /* ADDITIONAL STYLES
