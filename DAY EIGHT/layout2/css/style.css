@@ -89,12 +89,17 @@ section ul{
 main section + section  li {
   float: left;
   margin: 2%;
-  border: 1px solid red;
+  
   width: 20%;
   text-align: center;
   height: 30px;
   line-height: 1.5em;
   
+}
+a {
+  text-decoration: none;
+  
+
 }
 /******************************************
 /* ADDITIONAL STYLES
