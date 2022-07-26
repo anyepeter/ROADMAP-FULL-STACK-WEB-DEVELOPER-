@@ -1,0 +1,19 @@
+header {
+    height: 50%;
+    width: 100%;
+    background-color: blue;
+}
+header nav > *{
+    float: left;
+    width: 33%;
+}
+header nav img{
+    width:100%;
+}
+header nav img{
+    width: 100%;
+}
+header nav li {
+    float: left;
+    width: 50%;
+}
