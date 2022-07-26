@@ -1,19 +1,140 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
 header {
-    height: 50%;
+    height: 55px;
     width: 100%;
     background-color: blue;
+    text-align: center;
+    padding-top: 15px;
+    font-size: larger;
 }
-header nav > *{
+
+header nav  *{
     float: left;
-    width: 33%;
+    width: 20%;
+    display: block;
 }
-header nav img{
-    width:100%;
+
+nav ul {
+    margin: 0%;
+    width: 40%;
 }
-header nav img{
+nav ul li {
+    margin: 0px 5%;
+    width: 15%;
+}
+
+nav a {
+    width: 40%;
+    text-align: right;
+    padding-right: 10%;
+}
+nav img {
+    text-align: center;
+}
+/*styling the main and the sections */
+
+main section{
+ padding: 7% 20%;
+ background-color: silver;
+ height: 350px;
+ padding-left: 30%;
+}
+main section h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+
+}
+
+main section + section, main section + section + section + section {
+    background-color: white;
+    height: 250px;
+
+}
+
+div {
+    height: 50px;
+    border-radius: 50px;
+    width: 50px;
+    border: 1px solid black;
+    float: left;
+    margin-top: 2%;
+    
+}
+
+section div > div{
+    height: 20px;
+    width: 20px;
+}
+
+/* aside element*/
+
+section aside {
+    float: left;
+    width: 45%;
+    margin: 0 2%;
+    text-align: center;
+
+}
+aside div{
+    float: none;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    background-color: blueviolet;
+    margin-bottom: 10%;
+}
+
+main section + section + section {
+    background-color: silver;
+    height: 500px;
+
+}
+/* footer style*/
+footer{
+    height: 300px;
     width: 100%;
+    background-color: rgb(45, 253, 253);
+    padding: 20px 3%;
+
 }
-header nav li {
+footer > section {
     float: left;
     width: 50%;
+    height: 250px;
+    display: block;
+
+}
+footer  li{
+    list-style: none;
+    float: left;
+    width: 10%;
+    
+}
+footer ul {
+    width: 100%;
+    float: left;
+}
+footer section span {
+    width: 100%;
+}
+footer section + section *{
+    float: none;
+    width: 100%;
+    padding-left: 50%;
+}
+footer article *{
+    float: left;
+    width: 10%;
+}
+
+footer article p{
+    width: 90%;
+}
+article{
+    border-top: 1px solid black;
+    clear: both;
 }
